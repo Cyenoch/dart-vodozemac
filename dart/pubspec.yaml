@@ -11,7 +11,6 @@ environment:
 dependencies:
   collection: ^1.19.0
   flutter_rust_bridge: 2.11.1
-  test_core: ^0.6.12
   web: ^1.1.1
 
 dev_dependencies:
@@ -21,6 +20,7 @@ dev_dependencies:
   import_sorter: ^4.6.0
   ffigen: ^18.1.0
   olm: ^3.1.0
+  test_core: ^0.6.12
 
 import_sorter:
   comments: false
